@@ -1,0 +1,11 @@
+GET http://localhost:8080/hello-resteasy
+
+###
+
+GET http://localhost:8080/hello-resteasy/user
+
+###
+
+GET http://localhost:8080/hello-resteasy/user/me
+
+###
